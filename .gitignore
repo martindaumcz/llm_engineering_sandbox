@@ -1,4 +1,5 @@
 *.env
+*.lock
 .venv
 __pycache__/
 dist/
